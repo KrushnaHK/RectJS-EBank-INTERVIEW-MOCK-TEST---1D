@@ -1,0 +1,26 @@
+.nav-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.link-element {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.logout-button {
+  font-size: 15px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  background: transparent;
+  font-family: 'Roboto';
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
